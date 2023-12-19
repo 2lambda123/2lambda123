@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2lambda123)](https://github.com/2lambda123/github-readme-stats)
 <!--
 **2lambda123/2lambda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
