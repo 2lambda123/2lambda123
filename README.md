@@ -1,8 +1,10 @@
 ### Hi there working on better quality statistcs (OPENSOURCE)👋
+I believe that an API is part of your bone marrow and what we could call true AI because humans will always be superior to computers.
+
 <p align="center">
   <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
 </p>
-I believe that an API is part of your bone marrow and what we could call true AI because humans will always be superior to computers.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2lambda123)](https://github.com/2lambda123/github-readme-stats)
 
