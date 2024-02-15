@@ -3,7 +3,6 @@ I believe that an API is part of your bone marrow and what we could call true AI
 
 [![The creator](https://img.youtube.com/vi/ex3C1-5Dhb8)/0.jpg)]([https://www.youtube.com/watch?v=ex3C1-5Dhb8)
 
-(https://www.youtube.com/watch?v=ex3C1-5Dhb8)
 
 <p align="center">
   <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
