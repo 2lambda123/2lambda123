@@ -1,9 +1,9 @@
 ### Hi there working on better quality statistcs (OPENSOURCE)👋
 I believe that an API is part of your bone marrow and what we could call true AI because humans will always be superior to computers.
 
-<iframe width="420" height="315"
+<p width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+</p>
 
 <p align="center">
   <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
