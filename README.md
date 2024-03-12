@@ -1,5 +1,5 @@
 ### Hi there I am working on refurbishing the bathroom (OPENSOURCE FOUNDATION)👋
-I believe that an API is part of your bone marrow and what we could call true AI because humans will always be superior to computers.
+I believe an API is part of your bone marrow and what we could call true AI because humans will always be superior to computers.
 
 [![Watch the video](https://img.youtube.com/vi/ex3C1-5Dhb8/hqdefault.jpg)](https://www.youtube.com/embed/ex3C1-5Dhb8)
 
