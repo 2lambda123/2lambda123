@@ -3,7 +3,7 @@
 
 I believe an API is part of your bone marrow and what we could call true AI because of the superority of humans to computers due to the Markow distribution having its limits after all.
 
-"The end of Law is not to abolish or restrain, but to preserve and enlarge freedom" - John Lock
+"The end of Law is not to abolish or restrain, but to preserve and enlarge freedom" - John Locke
 
 [![Watch the video](https://img.youtube.com/vi/ex3C1-5Dhb8/hqdefault.jpg)](https://www.youtube.com/embed/ex3C1-5Dhb8)
 
