@@ -9,7 +9,6 @@ I believe an API is part of your bone marrow and what we could call true AI beca
 
 <img align="center" src="ImEMjLSr.png" />
 
-https://www.youtube.com/watch?v=IrVIgLxv6V4
 <!--
 
 <p align="center">
