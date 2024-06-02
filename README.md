@@ -5,7 +5,7 @@ I believe an API is part of your bone marrow and what we could call true AI beca
 
 "The end of Law is not to abolish or restrain, but to preserve and enlarge freedom" - John Locke
 
-[![Watch the video](https://img.youtube.com/vi/wXj_v1KZnxo/hqdefault)](https://www.youtube.com/watch?v=wXj_v1KZnxo.jpg)
+[![Watch the video](https://img.youtube.com/vi/O9gTAjbiQEM/hqdefault)](https://www.youtube.com/watch?v=O9gTAjbiQEM.jpg)
 
 <img align="center" src="ImEMjLSr.png" />
 
