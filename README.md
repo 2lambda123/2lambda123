@@ -19,6 +19,8 @@ I believe an API is part of your bone marrow and what we could call true AI beca
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2lambda123)](https://github.com/2lambda123/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2lambda123&layout=pie)](https://github.com/2lambda123/github-readme-stats)
+
+<script src="https://gist.github.com/eust-w/a0d921d42eaf55485d6881f8ce06ad15.js"></script>
 <!--
 **2lambda123/2lambda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
